@@ -88,3 +88,20 @@
    88  git status
    89  history
    90  history > history.txt
+   91  cat history.txt
+   92  git add history.txt
+   93  git status
+   94  git commit -m
+   95  git commit -m "first commit nothing important here"
+   96  git config --global user.email "rep22@njit.edu"
+   97  git confit --global user.name "Rupert Peters"
+   98  git config --global user.name "Rupert Peters"
+   99  git config --global user.name "Rupert E. Peters"
+  100  git commit -m "first commit, nothing important here"
+  101  sudo apt-get instakk gitk
+  102  sudo apt-get install gitk
+  103  gitk
+  104  git log
+  105  git remote add origin https://github.com/rupuz4github/RPetersIT635Spring17.git
+  106  git push -u origin master
+  107  history > history.txt
