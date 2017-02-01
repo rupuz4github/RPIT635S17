@@ -1,0 +1,90 @@
+    1  sudo apt-get install synaptic
+    2  sudo synaptic
+    3  mk dir
+    4  sudo synaptic
+    5  sudo apt-get install mysql-server
+    6  fasfasdk
+    7  cd
+    8  cd /etc
+    9  ll
+   10  cd udev
+   11  ll
+   12  cd ..
+   13  mkdir git
+   14  msql -u root -p
+   15  mysql
+   16  show database;
+   17  show database
+   18  cd..
+   19  history
+   20  mysql -u root -p
+   21  mysql showdatabase;
+   22  mysql showdatabases;
+   23  mysql show databases;
+   24  show column from user;
+   25  cd..
+   26  sudo apt-get install
+   27  sudo apt-get install synaptic
+   28  mysql show database;
+   29  sudo apt-get install mysql
+   30  mysql -u root -p
+   31  show databases;
+   32  mysql -u root -p
+   33  Rowepe06
+   34  mysql -u root -p
+   35  sudo apt-get install mysql
+   36  sudo apt-get uninstall mysql
+   37  sudo apt-get install mysql-server
+   38  mysql show databases;
+   39  mysql -u root -p
+   40  sudo apt-get install php
+   41  git
+   42  sudo apt install git
+   43  mkdir it635
+   44  ls
+   45  cd it635
+   46  git init
+   47  git status
+   48  sudo apt-install gitk
+   49  sudo apt-get install gitk
+   50  getk
+   51  gitk
+   52  git log
+   53  show database;
+   54  sudo apt-get update
+   55  clear
+   56  ls
+   57  mysql -u root -p
+   58  sudo apt-get install php
+   59  show php
+   60  sudo app-get install git
+   61  exit;
+   62  sudo apt-get install git
+   63  mkdir RPetersIT635Spring
+   64  ls
+   65  rm RPetersIT635Spring
+   66  rm -r RPetersIT635Spring
+   67  ls
+   68  mkdir RPetersIT635Spring17
+   69  ls
+   70  cd RPetersIT635Spring17
+   71  ls
+   72  git init
+   73  git status
+   74  mysqldump -u root -p > backup.sql
+   75  mysqldump -u root -p Classes > backup.sql
+   76  cat backup.sql
+   77  git add backup.sql
+   78  get status
+   79  git status
+   80  exit;
+   81  cd RPtersIT635Spring17
+   82  ls
+   83  cd RPeteraIT635Spring17
+   84  cd RPeteraIT635Spring17/
+   85  cd RPetersIT635Spring17
+   86  ls
+   87  git init
+   88  git status
+   89  history
+   90  history > history.txt
